@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060999979757",
+    "project_id": "chatapp-70cc3",
+    "storage_bucket": "chatapp-70cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060999979757:android:8a9d486acee0631a91e2e4",
+        "android_client_info": {
+          "package_name": "com.example.belfam_ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOCiz4pXPXLmjh8_R6orcslym8gakQMo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
